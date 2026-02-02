@@ -16,7 +16,6 @@ defaults:
     shell: bash
 jobs:
   build:
-    working-directory: academic-cv
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.97.2
@@ -83,7 +82,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --baseURL "${{ steps.pages.outputs.base_url }}/academic-cv" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
         id: cache-save
