@@ -1,0 +1,113 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dr. Venkat Venkatakrishnan
+  given: Venkat 
+  family: Venkatakrishnan
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: he/him
+postnominals:
+  - PhD
+  - MIEEE
+status:
+  icon: "☕️"
+role: Professor of Computer Science
+bio: |
+  Venkat Venkatakrishnan is Professor of Computer Science at University of Illinois Chicago. 
+  His research has been published in top conferences like NeurIPS and ICML, with over
+  10,000 citations. Alex is passionate about pushing the boundaries of AI
+  while ensuring ethical development.
+
+affiliations:
+  - name: Computer Science at University of Illinois at Chicago
+    url: https://www.cs.uic.edu
+
+links:
+  - icon: at-symbol
+    url: mailto:venkat@uic.edu
+    label: E-mail Me
+  - icon: brands/x
+    url: https://x.com/example
+  - icon: brands/github
+    url: https://github.com/example
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/example/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=example
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1825-0097
+
+interests:
+  - Software Vulnerability Analysis
+  - Attacks Detection, Prevention and Response
+  - Secure Software Development
+  - Computing Innovation and Applications of Computing to Broad Societal Problems
+
+education:
+  - degree: PhD Computer Science
+    institution: Stony Brook University
+    start: 2001-08
+    end: 2004-11-
+    summary: |
+      Thesis *Enforcement Techniques for Expressive Security Policies* 
+  - degree: M.S. Computer Science
+    institution: Stony Brook University
+    start: 1998-08
+    end: 2001-08
+  - degree: M. Sc. (Hons) Mathematics
+    institution: Birla Institute of Technology and Science, Pilani, India
+    start: 1992-08
+    end: 1997-05
+
+experience:
+  - role: Professor of Computer Science
+    org: University of Illinois Chicago
+    start: 2004-01
+    summary: |
+      Leading research on Computer Systems Security
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
+  - role: Director of Research
+    org: Discovery Partners Institute
+    start: 2020-03
+    end: 2025-08
+    summary: |
+      
+      Served as the inaugral director of research, built 3 center level activities, and hired a team of 35 research and support staff.
+
+skills:
+  - name: Technical Skills
+    items:
+      - label: Research
+        level: 5
+      - label: Leadership
+        level: 5
+      - label: Strategic planning
+        level: 5
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 5
+      - label: Grant Proposals
+        level: 5
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Spanish
+    level: 4
+    label: Fluent
+
+awards:
+  - title: Distinguished Paper Award
+    awarder: USENIX Security 2018 
+    date: "2018-08-15"
+    summary: Awarded for groundbreaking work on software vulnerability analysis.
+    icon: hero/trophy
