@@ -80,12 +80,12 @@ jobs:
       - name: Build the site
         run: |
           hugo \
+            --config ./academic-cv/config/_default \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
-        options:
-          working-directory: ./academic-cv
+        
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v5
