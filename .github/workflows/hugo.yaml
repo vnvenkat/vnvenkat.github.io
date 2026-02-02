@@ -16,6 +16,7 @@ defaults:
     shell: bash
 jobs:
   build:
+    working-directory: academic-cv
     runs-on: ubuntu-latest
     env:
       DART_SASS_VERSION: 1.97.2
