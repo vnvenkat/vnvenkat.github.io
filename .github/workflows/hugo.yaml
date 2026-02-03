@@ -67,7 +67,9 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+          pnpm tailwindcss --version
       # npx --no-install tailwindcss --version
+
       - name: Configure Git
         run: |
           git config core.quotepath false
