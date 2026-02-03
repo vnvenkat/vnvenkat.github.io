@@ -54,7 +54,7 @@ sections:
       filters:
         folders:
           - publications
-	  - publication
+	        - publication
         featured_only: true
     design:
       view: article-grid
