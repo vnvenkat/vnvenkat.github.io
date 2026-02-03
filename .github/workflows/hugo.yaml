@@ -66,8 +66,13 @@ jobs:
           echo "Node.js: $(node --version)"
       - name: Install Node.js dependencies
         run: |
-          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
-          pnpm tailwindcss --version
+          if [ -f "package.json" ]; then
+            echo "Installing Tailwind dependencies..."
+            pnpm install --no-frozen-lockfile || npm install
+          fi
+
+      #[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+     #pnpm tailwindcss --version
       # npx --no-install tailwindcss --version
 
       - name: Configure Git
