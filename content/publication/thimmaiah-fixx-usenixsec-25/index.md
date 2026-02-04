@@ -5,8 +5,8 @@ authors:
 - Yashashvi J. Dave
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
-date: '2025-01-01'
-publishDate: '2026-02-04T17:45:23.867114Z'
+date: '2025-08-01'
+publishDate: '2026-02-04T18:12:24.448539Z'
 publication_types:
 - chapter
 publication: '*Proceedings of the 34th USENIX Security Symposium*'
