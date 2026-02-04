@@ -7,7 +7,7 @@
 
 %% Saved with string encoding Unicode (UTF-8) 
 
-@inbook{Thimmaiah:usenixsec25,
+@inbook{Thimmaiah:fixx:usenixsec25,
 author = {Thimmaiah, Neil P. and Dave, Yashashvi J. and Gjomemo, Rigel and Venkatakrishnan, V. N.},
 title = {FIXX: finding exploits from examples},
 year = {2025},
@@ -19,6 +19,180 @@ booktitle = {Proceedings of the 34th USENIX Security Symposium},
 articleno = {426},
 numpages = {15}
 }
+
+@inproceedings{Venkatakrishnan:keynote:IWSPA25,
+author = {Venkatakrishnan, V.N.},
+title = {Real-time Analytics for APT Detection and Threat Hunting Using Cyber-threat Intelligence and Provenance Graphs},
+year = {2025},
+isbn = {9798400715013},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3716815.3729016},
+doi = {10.1145/3716815.3729016},
+abstract = {The persistent and stealthy nature of Advanced Persistent Threats (APTs) poses a significant challenge to enterprise security. Traditional detection mechanisms often fall short in identifying coordinated multi-step attacks or leveraging the rich context available in Cyber Threat Intelligence (CTI).     The three works presented tackle this problem from complementary angles -- real-time detection, correlation-based threat hunting, and automated intelligence extraction. A unifying thread across these three works is their shared reliance on provenance graphs as a powerful abstraction for capturing and reasoning about complex attacker behavior. Together, these approaches form a complementary ecosystem: Extractor extracts threat knowledge, POIROT hunts for manifestations of that knowledge, and HOLMES detects emergent threats in real-time, all grounded in a common graph-based representation of system activity and threat behavior.    HOLMES introduces a real-time detection framework aimed at identifying the coordinated activities typical of APT campaigns.  It does so by correlating suspicious information flows to generate a robust detection signal and constructing high-level provenance graphs that summarize attacker behavior for analyst response. Its evaluation shows high precision and low false alarm rates, supporting its applicability in live operational environments. POIROT builds on the growing use of CTI standards by actively leveraging the relationships between indicators—often underused in practice—for threat hunting. It treats the problem as a graph pattern matching task, aligning CTI-derived graphs with system-level provenance data obtained from kernel audits. Its novel similarity metric enables efficient search through massive graphs, revealing APT traces within minutes and demonstrating the operational utility of CTI relationship data.    Extractor addresses the challenge of unstructured CTI reports by automatically transforming them into structured, machine-usable provenance graphs. Without requiring strict assumptions about the input text, it extracts concise behavioral indicators that can be fed into threat-hunting tools like POIROT, bridging the gap between raw intelligence and analytical application.    Together, these systems represent a shift toward graph-based, intelligence-driven detection and response. They emphasize the value of integrating real-time monitoring with structured threat intelligence and automation, setting the stage for more adaptive and effective cybersecurity operations.},
+booktitle = {Proceedings of the 10th ACM International Workshop on Security and Privacy Analytics},
+pages = {1},
+numpages = {1},
+keywords = {provenance graphs, threat hunting, threat intelligence, graph analytics},
+location = {Pittsburgh, PA, USA},
+series = {IWSPA '25}
+}
+
+@incollection{venkatakrishnan:browser:encyclopedia24,
+  title={Web Browser Security and Privacy},
+  author={Venkatakrishnan, VN},
+  booktitle={Encyclopedia of Cryptography, Security and Privacy},
+  pages={1--2},
+  year={2024},
+  publisher={Springer}
+}
+
+@inproceedings{Guo:ReactAppScan:CCS24,
+author = {Guo, Zhiyong and Kang, Mingqing and Venkatakrishnan, V.N. and Gjomemo, Rigel and Cao, Yinzhi},
+title = {ReactAppScan: Mining React Application Vulnerabilities via Component Graph},
+year = {2024},
+isbn = {9798400706363},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3658644.3670331},
+doi = {10.1145/3658644.3670331},
+abstract = {React, a single-page application framework, has recently become popular among web developers due to its flexible and convenient management of web application states via a syntax extension to JavaScript, called JSX (JavaScript and XML). Despite its abundant functionalities, the security of React, especially vulnerability detection, still lags: many existing vulnerability detection works do not support JSX let alone React Data Flow introduced by React components. The only exception is CodeQL, which supports JSX syntax. However, CodeQL cannot properly track React Data Flow across different components for detecting vulnerabilities.In this paper, we design a novel framework, called ReactAppScan, which constructs a Component Graph (CoG) for tracking React Data Flow and detecting vulnerabilities following both JavaScript and React data flows. Specifically, ReactAppScan relies on abstract interpretation to build such a component graph via tracking component lifecycles and then detects vulnerabilities via finding paths between sources and sinks. Our evaluation shows that ReactAppScan detects 61 zero-day vulnerabilities in real-world React applications. We have responsibly reported all the vulnerabilities and so far six vulnerabilities have been fixed and two have been acknowledged.},
+booktitle = {Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},
+pages = {585–599},
+numpages = {15},
+keywords = {component graph, single-page application, vulnerability detection},
+location = {Salt Lake City, UT, USA},
+series = {CCS '24}
+}
+
+@inproceedings{Ghosh:Citar:codaspy25,
+author = {Ghosh, Sutanu Kumar and Gjomemo, Rigel and Venkatakrishnan, V.N.},
+title = {Citar: Cyberthreat Intelligence-driven Attack Reconstruction},
+year = {2025},
+isbn = {9798400714764},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3714393.3726519},
+doi = {10.1145/3714393.3726519},
+abstract = {Security Operation Centers (SOCs) are the first line of defense against an increasingly complex and sophisticated environment of advanced persistent threats (APTs). Inside SOCs, analysts deal with thousands of alerts every day and have to make real-time decisions about whether alerts are worth investigating further. However, they face several challenges in efficiently investigating a significant number of alerts daily and reconstructing attack scenarios from those alerts. In this paper, we present Citar, an approach for leveraging cyber threat intelligence (CTI) to facilitate attack scenario reconstruction. Citar enhances alert investigation by attributing alerts to potential attacker groups and examining audit logs for related attack instances. Utilizing a new correlation analysis developed for this purpose, we identify potential connections between flagged alerts and known attack behaviors present in a system. Citar is evaluated using a DARPA public dataset and 10 new attack scenarios (five real-world APT groups and five popular malwares). Our evaluation shows that augmenting existing detection mechanisms with Citar improves detection performance by up to 57\%, significantly aiding SOC analysts in alert investigations and attack reconstructions.},
+booktitle = {Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy},
+pages = {245–256},
+numpages = {12},
+keywords = {advanced persistent threats, alert correlation, attack reconstruction, cyber threat intelligence},
+location = {Pittsburgh, PA, USA},
+series = {CODASPY '25}
+}
+
+@inproceedings{Thimmaiah:SemFinder:codaspy25,
+author = {Thimmaiah, Neil P. and Gjomemo, Rigel and Venkatakrishnan, V.N.},
+title = {SemFinder: A Semantics-Based Approach to Enhance Vulnerability Analysis in Web Applications},
+year = {2025},
+isbn = {9798400714764},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3714393.3726513},
+doi = {10.1145/3714393.3726513},
+abstract = {Modern web applications are becoming increasingly complex. They include multiple dynamic runtime constructs that are difficult to analyze by static application security testing (SAST) tools. These tools often use a graph representation of the code for their analysis. However, built statically, such graphs may miss important data and control flows dependent on runtime information. In addition, the presence of difficult-to-analyze code patterns in modern web applications, referred to as testability tarpits, further reduces the accuracy of statically built graphs. As a result, current SAST tools have several false negatives because of 'hidden' paths, which are not present in the graphs. In this paper, we present SemFinder, an approach designed to automatically detect such hidden paths. SemFinder uses natural language semantics to hypothesize connections between different locations in the code based on the meaning and similarity of the variables in those locations and test those hypotheses dynamically. We evaluate SemFinder on 30 PHP applications and discover 215 new exploitable hidden paths with respect to existing SAST tools, leading to the submission of 31 new CVEs.},
+booktitle = {Proceedings of the Fifteenth ACM Conference on Data and Application Security and Privacy},
+pages = {30–41},
+numpages = {12},
+keywords = {PHP, software analysis, web application security},
+location = {Pittsburgh, PA, USA},
+series = {CODASPY '25}
+}
+
+@inproceedings{Satvat:TIPCE:codaspy24,
+author = {Satvat, Kiavash and Gjomemo, Rigel and Venkatakrishnan, V.N.},
+title = {TIPCE: A Longitudinal Threat Intelligence Platform Comprehensiveness Analysis},
+year = {2024},
+isbn = {9798400704215},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3626232.3653278},
+doi = {10.1145/3626232.3653278},
+abstract = {Threat Intelligence (TI) serves as a vital component of cybersecurity, empowering organizations to combat cyber threats proactively. While existing research primarily focuses on analyzing threat intelligence feeds from Threat Intelligence Sharing Platforms (TISPs), the extensive data available within TISPs knowledge bases remains largely unexplored. This study aims to fill this gap by proposing a novel approach to perform the first in-depth empirical study of prominent TISPs' databases. To achieve this, we propose an innovative approach to construct a ground truth dataset of Indicators of Compromise (IOCs) derived from threat reports. We implement our approach in a tool called TIPCE, which processes over 50,000 threat reports, extracting more than 182K IOCs with high accuracy. TIPCE leverages this dataset to measure and study different features of four known TISP databases, including their coverage, overlap, and timeliness. Our results provide novel longitudinal insights into TISPs, including their distinct performance per IOC type and considerable overlap between TISP databases.},
+booktitle = {Proceedings of the Fourteenth ACM Conference on Data and Application Security and Privacy},
+pages = {349–360},
+numpages = {12},
+keywords = {cyber threat intelligence, indicators of compromise, threat intelligence sharing platforms},
+location = {Porto, Portugal},
+series = {CODASPY '24}
+}
+
+@incollection{Venkatakrishnan:FormalMethods:encyclopedia24,
+  title={Applications of Formal Methods to Web Application Security},
+  author={Venkatakrishnan, VN},
+  booktitle={Encyclopedia of Cryptography, Security and Privacy},
+  pages={1--3},
+  year={2024},
+  publisher={Springer}
+}
+
+@Chapter{Catlett:PrivacyCities:DemocracyBook23,
+publisher={Edward Elgar Publishing},
+series={Chapters},
+edition={None},
+booktitle={The Crisis of Democracy in the Age of Cities},
+chapter={9},
+author={Charlie Catlett and Juval Portugali and Venkat Venkatakrishnan},
+title={Privacy and trust in artificially intelligent cities},
+year={2023},
+month={None},
+pages={167-183},
+volume={None},
+abstract={The notion of a â€œsmartâ€ city has too often been reduced to the use of technology to automate processes toward more efficiency and cost savings in areas such as transportation, public safety, or energy. These are important objectives to be sure, but the most vexing challenges faced by cities and their inhabitants are less obviously amenable to purely technical solutions, as these relate to human and societal needs such as for opportunity, fairness, safety, and justice. While cities attempt to manage their operations through smart city solutions, no amount of automation or efficiency will automatically make a city â€œsmartâ€ if these human and societal needs are not integrated with, or ideally driving, those solutions. Moreover, a focus on technological systems introduces at least two hidden dangers. First, managing complex technological systems requires controlling and monitoring those systems, leading to concepts such as an â€œoperating systemâ€ for the city and a trend from automation to autonomous systems. This is partly fueled by increasing capabilities in artificial intelligence (AI) and machine learning (ML), in turn enabling ever more sophisticated autonomous systems. But operating systems are, predominantly, authoritarian systems and AI capabilities, while extraordinarily useful for many mechanical and mathematical functions, have yet to overcome critical challenges such as bias and judgment, much less understanding human concepts of opportunity or fairness. Second, new technologies introduce new capabilities not yet contemplated by society or governance structures and the potential for derivative capabilities that may not have been anticipated even by the system designers themselves. Thus, these new capabilities operate not only absent appropriate policy but in advance of a clear concept of what those appropriate policies should be! We discuss these challenges in the context of real-world smart city deployments, the impact of such technologies on assumptions about},
+keywords={Economics and Finance; Geography; Politics and Public Policy Urban and Regional Studies},
+doi={None},
+url={https://ideas.repec.org/h/elg/eechap/21553_9.html},
+}
+
+@INPROCEEDINGS{Kang:FAST:ieeesp23,
+  author={Kang, Mingqing and Xu, Yichao and Li, Song and Gjomemo, Rigel and Hou, Jianwei and Venkatakrishnan, V. N. and Cao, Yinzhi},
+  booktitle={2023 IEEE Symposium on Security and Privacy (SP)}, 
+  title={Scaling JavaScript Abstract Interpretation to Detect and Exploit Node.js Taint-style Vulnerability}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1059-1076},
+  abstract={Taint-style vulnerabilities, such as OS command injection and path traversal, are common and severe software weaknesses. There exists an inherent trade-off between analysis scalability and accuracy in detecting such vulnerabilities. On one hand, existing syntax-directed approaches often make compromises in the analysis accuracy on dynamic features like bracket syntax. On the other hand, existing abstract interpretation often faces the issue of state explosion in the abstract domain, thus leading to a scalability problem.In this paper, we present a novel approach, called FAST, to scale the vulnerability discovery of JavaScript packages via a novel abstract interpretation approach that relies on two new techniques, called bottom-up and top-down abstract interpretation. The former abstractly interprets functions based on scopes instead of call sequences to construct dynamic call edges. Then, the latter follows specific control-flow paths and prunes the program to skip statements unrelated to the sink. If an end-to-end data-flow path is found, FAST queries the satisfiability of constraints along the path and verifies the exploitability to reduce human efforts.We implement a prototype of FAST and evaluate it against real-world Node.js packages. We show that FAST is able to find 242 zero-day vulnerabilities in NPM with 21 CVE identifiers being assigned. Our evaluation also shows that FAST can scale to real-world applications such as NodeBB and popular frameworks such as total.js and strapi in finding legacy vulnerabilities that no prior works can.},
+  keywords={Privacy;Scalability;Prototypes;Syntactics;Software;Explosions;Security;Node.js;Abstract-Interpretation;Vulnerability-Detection},
+  doi={10.1109/SP46215.2023.10179352},
+  ISSN={2375-1207},
+  month={May},}
+
+  @patent{,
+  author    = { Sekar, Ramasubramanian and Wang, Junao  and  Hossain, Md Nahid,  Milajerdi, Sadegh M and  Eshete, Birhanu and  Gjomemo, Rigel  Venkatakrishnan, VN and  Stoller, Scott},
+  title     = {System and method associated with expedient detection and reconstruction of cyber events in a compact scenario representation using provenance tags and customizable policy},
+  year      = {2023},
+  month     = {March},
+  day       = {7},
+  number    = {US11601442B2},
+  url       = {https://patents.google.com/patent/US11601442B2/en},
+  type      = {Patent},
+  institution = {University of Illinois at Chicago}
+  abstract  = {A system associated with detecting a cyber-attack and reconstructing events associated with a cyber-attack campaign, is disclosed. The system performs various operations that include receiving an audit data stream associated with cyber events. The system identifies trustworthiness values in a portion of data associated with the cyber events and assigns provenance tags to the portion of the data based on the identified trustworthiness values. An initial visual representation is generated based on the assigned provenance tags to the portion of the data. The initial visual representation is condensed based on a backward traversal of the initial visual representation in identifying a shortest path from a suspect node to an entry point node. A scenario visual representation is generated that specifies nodes most relevant to the cyber events associated with the cyber-attack based on the identified shortest path.A corresponding method and computer-readable medium are also disclosed.}
+}
+
+
+@InProceedings{Ghosh:Ostinato:ICISS22,
+author="Ghosh, Sutanu Kumar
+and Satvat, Kiavash
+and Gjomemo, Rigel
+and Venkatakrishnan, V. N.",
+editor="Badarla, Venkata Ramana
+and Nepal, Surya
+and Shyamasundar, Rudrapatna K.",
+title="Ostinato: Cross-host Attack Correlation Through Attack Activity Similarity Detection",
+booktitle="Information Systems Security",
+year="2022",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="1--22",
+abstract="Modern attacks against enterprises often have multiple targets inside the enterprise network. Due to the large size of these networks and increasingly stealthy attacks, attacker activities spanning multiple hosts are extremely difficult to correlate during a threat-hunting effort. In this paper, we present a method for an efficient cross-host attack correlation across multiple hosts. Unlike previous works, our approach does not require lateral movement detection techniques or host-level modifications. Instead, our approach relies on an observation that attackers have a few strategic mission objectives on every host that they infiltrate, and there exist only a handful of techniques for achieving those objectives. The central idea behind our approach involves comparing (OS agnostic) activities on different hosts and correlating the hosts that display the use of similar tactics, techniques, and procedures. We implement our approach in a tool called Ostinato and successfully evaluate it in threat hunting scenarios involving DARPA-led red team engagements spanning 500 hosts and in another multi-host attack scenario. Ostinato successfully detected 21 additional compromised hosts, which the underlying host-based detection system overlooked in activities spanning multiple days of the attack campaign. Additionally, Ostinato successfully reduced alarms generated from the underlying detection system by more than 90{\%}, thus helping to mitigate the threat alert fatigue problem.",
+isbn="978-3-031-23690-7"
+}
+
+
 
 
 
