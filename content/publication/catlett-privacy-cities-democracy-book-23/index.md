@@ -4,7 +4,7 @@ authors:
 - Charlie Catlett
 - Juval Portugali
 - Venkat Venkatakrishnan
-date: 2023-Oct-17
+date: 2023-10-17
 publishDate: '2026-02-04T14:31:47.418877Z'
 publication_types:
 - manuscript
