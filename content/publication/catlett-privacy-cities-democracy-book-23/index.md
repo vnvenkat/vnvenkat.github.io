@@ -5,9 +5,9 @@ authors:
 - Juval Portugali
 - Venkat Venkatakrishnan
 date: 17-10-01
-publishDate: '2026-02-04T17:35:42.983829Z'
+publishDate: '2026-02-04T17:38:42.409425Z'
 publication_types:
-- manuscript
+- chapter
 publication: '*The Crisis of Democracy in the Age of Cities*'
 doi: None
 abstract: The notion of a smart city has too often been reduced to the use of technology

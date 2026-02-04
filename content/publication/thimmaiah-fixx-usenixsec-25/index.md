@@ -6,7 +6,7 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2025-01-01'
-publishDate: '2026-02-04T17:35:42.928645Z'
+publishDate: '2026-02-04T17:38:42.354874Z'
 publication_types:
 - chapter
 publication: '*Proceedings of the 34th USENIX Security Symposium*'
