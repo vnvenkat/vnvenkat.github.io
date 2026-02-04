@@ -68,7 +68,7 @@ jobs:
         if: ${{ hashFiles('publications.bib') != '' }}
         run: |
           echo "🚀 Starting publication import..."
-          academic import publications.bib content/publication/ --compact --verbose
+          academic import publications.bib content/publication/ --compact --verbose --overwrite
           echo "✅ Publication import completed successfully"
           
           # Verify that files were created
