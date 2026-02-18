@@ -1,0 +1,17 @@
+@inproceedings{Sun:ndss05,
+ abstract = {In this paper, we present an approach for realizing a safe execution environment (SEE) that enables users to ``try out'' new software (or configuration changes to existing software) without the fear of damaging the system in any manner. A key property of our SEE is that it faithfully reproduces the behavior of applications, as if they were running natively on the underlying host operating system. This is accomplished via one-way isolation: processes running within the SEE are given read-access to the environment provided by the host OS, but their write operations are prevented from escaping outside the SEE. As a result, SEE processes cannot impact the behavior of host OS processes, or the integrity of data on the host OS. Our SEE supports a wide range of tasks, including: study of malicious code, controlled execution of untrusted software, experimentation with software configuration changes, testing of software patches, and so on. It provides a convenient way for users to inspect system changes made within the SEE. If the user does not accept these changes, they can be rolled back at the click of a button. Otherwise, the changes can be ``committed '' so as to become visible outside the SEE. We provide consistency criteria that ensure semantic consistency of the committed results. We also develop an efficient technique for implementing the commit operation. Our implementation results show that most software, including fairly complex server and client applications, can run successfully within the SEE. The approach introduces low performance overheads, typically below 10%.},
+ annote = {Acceptance rate: 13%},
+ author = {Weiqing Sun and Zhenkai Liang and V. N. Venkatakrishnan and R. Sekar},
+ bdsk-url-1 = {https://dblp.org/rec/conf/ndss/SunLVS05},
+ bdsk-url-2 = {https://www.ndss-symposium.org/ndss2005/one-way-isolation-effective-approach-realizing-safe-execution-environments/},
+ booktitle = {Proceedings of the Network and Distributed System Security Symposium, NDSS 2005, San Diego, California, USA},
+ date-added = {2026-02-13 19:50:58 -0600},
+ date-modified = {2026-02-16 23:04:47 -0600},
+ keywords = {sandboxing;isolated execution;operating systems;Security policies},
+ month = {Feb},
+ publisher = {The Internet Society},
+ series = {NDSS'05},
+ title = {One-Way Isolation: An Effective Approach for Realizing Safe Execution Environments},
+ url = {https://www.ndss-symposium.org/ndss2005/one-way-isolation-effective-approach-realizing-safe-execution-environments/},
+ year = {2005}
+}

@@ -3,11 +3,11 @@ title: 'ReactAppScan: Mining React Application Vulnerabilities via Component Gra
 authors:
 - Zhiyong Guo
 - Mingqing Kang
-- V.N. Venkatakrishnan
+- V. N. Venkatakrishnan
 - Rigel Gjomemo
 - Yinzhi Cao
-date: '2024-01-01'
-publishDate: '2026-02-05T01:07:30.645704Z'
+date: '2024-10-01'
+publishDate: '2026-02-18T20:52:26.971071Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications
@@ -32,7 +32,7 @@ abstract: 'React, a single-page application framework, has recently become popul
 tags:
 - component graph
 - single-page application
-- vulnerability detection
+- vulnerability analysis
 links:
 - name: URL
   url: https://doi.org/10.1145/3658644.3670331
