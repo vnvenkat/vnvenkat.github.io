@@ -4,9 +4,9 @@ title: 'SemFinder: A Semantics-Based Approach to Enhance Vulnerability Analysis 
 authors:
 - Neil P. Thimmaiah
 - Rigel Gjomemo
-- V.N. Venkatakrishnan
+- V. N. Venkatakrishnan
 date: '2025-06-01'
-publishDate: '2026-02-05T01:07:30.661605Z'
+publishDate: '2026-02-18T20:52:26.986941Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Fifteenth ACM Conference on Data and Application

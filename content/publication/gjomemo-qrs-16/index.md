@@ -1,0 +1,38 @@
+---
+title: Leveraging Static Analysis Tools for Improving Usability of Memory Error Sanitization
+  Compilers
+authors:
+- Rigel Gjomemo
+- Phu H. Phung
+- Edmund Ballou
+- Kedar S. Namjoshi
+- V. N. Venkatakrishnan
+- Lenore D. Zuck
+date: '2016-08-01'
+publishDate: '2026-02-18T20:52:26.549927Z'
+publication_types:
+- paper-conference
+publication: '*2016 IEEE International Conference on Software Quality, Reliability
+  and Security*'
+doi: 10.1109/QRS.2016.44
+abstract: Memory errors such as buffer overruns are notorious security vulnerabilities.
+  There has been considerable interest in having a compiler to ensure the safety of
+  compiled code either through static verification or through instrumented runtime
+  checks. While certifying compilation has shown much promise, it has not been practical,
+  leaving code instrumentation as the next best strategy for compilation. We term
+  such compilers Memory Error Sanitization Compilers (MESCs). MESCs are available
+  as part of GCC, LLVM and MSVC suites. Due to practical limitations, MESCs typically
+  apply instrumentation indiscriminately to every memory access, and are consequently
+  prohibitively expensive and practical to only small code bases. This work proposes
+  a methodology that applies state-of-the-art static analysis techniques to eliminate
+  unnecessary runtime checks, resulting in more efficient and scalable defenses. The
+  methodology was implemented on LLVM's Safecode, Integer Overflow, and Address Sanitizer
+  passes, using static analysis of Frama-C and Codesurfer. The benchmarks demonstrate
+  an improvement in runtime performance that makes incorporation of runtime checks
+  a viable option for defenses.
+tags:
+- static analysis; Program analysis; memory safety; compilers; C language; LLVM;
+links:
+- name: URL
+  url: https://doi.org/10.1109/QRS.2016.44
+---

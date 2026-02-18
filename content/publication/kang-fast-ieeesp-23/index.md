@@ -6,11 +6,11 @@ authors:
 - Yichao Xu
 - Song Li
 - Rigel Gjomemo
-- Jianwei Hou
+- Jianwei Hu
 - V. N. Venkatakrishnan
 - Yinzhi Cao
 date: '2023-05-01'
-publishDate: '2026-02-05T01:07:30.683753Z'
+publishDate: '2026-02-18T20:52:27.009611Z'
 publication_types:
 - paper-conference
 publication: '*2023 IEEE Symposium on Security and Privacy (SP)*'
@@ -35,5 +35,5 @@ abstract: Taint-style vulnerabilities, such as OS command injection and path tra
   such as NodeBB and popular frameworks such as total.js and strapi in finding legacy
   vulnerabilities that no prior works can.
 tags:
-- Privacy;Scalability;Prototypes;Syntactics;Software;Explosions;Security;Node.js;Abstract-Interpretation;Vulnerability-Detection
+- Privacy;Prototypes; Node.js;Abstract-Interpretation;vulnerability analysis
 ---
