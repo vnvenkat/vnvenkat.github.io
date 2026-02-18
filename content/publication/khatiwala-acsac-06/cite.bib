@@ -1,0 +1,33 @@
+@inproceedings{Khatiwala:ACSAC06,
+ abstract = {When an application reads private / sensitive information and subsequently communicates on an output
+channel such as a public file or a network connection,
+how can we ensure that the data written is free of private
+information? In this paper, we address this question in a
+practical setting through the use of a technique that we
+call ``data sandboxing'' . Essentially, data sandboxing is
+implemented using the popular technique of system call
+interposition to mediate output channels used by a program. To distinguish between private and public data,
+the program is partitioned into two: one that contains
+all the instructions that handle sensitive data and the
+other containing the rest of the instructions. This partitioning is performed based on techniques from program
+slicing. When run together, these two programs collectively replace the original program. To address confidentiality, these programs are sandboxed with different
+system call interposition based policies. We discuss the
+design and implementation of a tool that enforces confidentiality policies on C programs using this technique.
+We also report our experiences in using our tool over
+several programs that handle confidential data.},
+ annote = {Acceptance rate: 32 out of 135 submissions, 26.5%},
+ author = {Tejas Khatiwala and Raj Swaminathan and V. N. Venkatakrishnan},
+ bdsk-url-1 = {https://dblp.org/rec/conf/acsac/KhatiwalaSV06},
+ bdsk-url-2 = {https://doi.org/10.1109/ACSAC.2006.22},
+ booktitle = {22nd Annual Computer Security Applications Conference (ACSAC 2006), 11-15 December 2006, Miami Beach, Florida, USA},
+ date-added = {2026-02-13 19:50:58 -0600},
+ date-modified = {2026-02-14 17:25:49 -0600},
+ doi = {10.1109/ACSAC.2006.22},
+ keywords = {runtime monitoring;sandboxing;information flow;Security policies;system call monitoring;confidentiality},
+ month = {Dec},
+ pages = {223--234},
+ series = {ACSAC'06},
+ title = {Data Sandboxing: A Technique for Enforcing Confidentiality Policies},
+ url = {https://doi.org/10.1109/ACSAC.2006.22},
+ year = {2006}
+}

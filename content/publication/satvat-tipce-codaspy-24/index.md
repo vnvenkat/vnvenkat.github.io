@@ -3,9 +3,9 @@ title: 'TIPCE: A Longitudinal Threat Intelligence Platform Comprehensiveness Ana
 authors:
 - Kiavash Satvat
 - Rigel Gjomemo
-- V.N. Venkatakrishnan
-date: '2024-01-01'
-publishDate: '2026-02-05T01:07:30.669670Z'
+- V. N. Venkatakrishnan
+date: '2024-06-01'
+publishDate: '2026-02-18T20:52:26.994734Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Fourteenth ACM Conference on Data and Application
@@ -27,8 +27,6 @@ abstract: Threat Intelligence (TI) serves as a vital component of cybersecurity,
   TISP databases.
 tags:
 - cyber threat intelligence
-- indicators of compromise
-- threat intelligence sharing platforms
 links:
 - name: URL
   url: https://doi.org/10.1145/3626232.3653278

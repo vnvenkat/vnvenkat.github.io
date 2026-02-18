@@ -1,14 +1,14 @@
 ---
 title: 'FIXX: finding exploits from examples'
 authors:
-- Neil P. Thimmaiah
-- Yashashvi J. Dave
+- Neil Thimmaiah
+- Yashaswi Dave
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2025-08-01'
-publishDate: '2026-02-05T01:07:30.620839Z'
+publishDate: '2026-02-18T20:52:26.947454Z'
 publication_types:
-- chapter
+- paper-conference
 publication: '*Proceedings of the 34th USENIX Security Symposium*'
 abstract: Comprehensively analyzing modern-day web applications to detect different
   vulnerabilities and related exploits is challenging and time-consuming. Security
@@ -23,4 +23,9 @@ abstract: Comprehensively analyzing modern-day web applications to detect differ
   evaluate FIXX on 32 CVE reports containing cross-site scripting and SQL injection
   vulnerabilities associated with 19 PHP applications and discover 1097 similar exploitable
   paths leading to 10 new CVE entries.
+tags:
+- exploit generation; web application security;
+links:
+- name: URL
+  url: https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah
 ---
