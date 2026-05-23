@@ -6,7 +6,7 @@ authors:
 - Karthik Thotta Ganesh
 - V. N. Venkatakrishnan
 date: '2010-08-01'
-publishDate: '2026-02-18T20:52:26.784015Z'
+publishDate: '2026-05-23T00:35:41.009301Z'
 publication_types:
 - paper-conference
 publication: '*19th USENIX Security Symposium, Washington, DC, USA, August 11-13,

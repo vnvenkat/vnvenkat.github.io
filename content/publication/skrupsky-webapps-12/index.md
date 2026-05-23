@@ -9,7 +9,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2012-06-01'
-publishDate: '2026-02-18T20:52:26.701662Z'
+publishDate: '2026-05-23T00:35:40.926394Z'
 publication_types:
 - paper-conference
 publication: "*3rd USENIX Conference on Web Application Development, WebApps'12, Boston,

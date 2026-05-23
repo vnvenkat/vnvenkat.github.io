@@ -5,7 +5,7 @@ authors:
 - Mike Ter Louw
 - V. N. Venkatakrishnan
 date: '2009-05-01'
-publishDate: '2026-02-18T20:52:26.799655Z'
+publishDate: '2026-05-23T00:35:41.025042Z'
 publication_types:
 - paper-conference
 publication: '*30th IEEE Symposium on Security and Privacy (SP 2009), 17-20 May 2009,

@@ -6,7 +6,7 @@ authors:
 - I. V. Ramakrishnan
 - R. Sekar
 date: '2005-04-01'
-publishDate: '2026-02-18T20:52:27.033097Z'
+publishDate: '2026-05-23T00:35:41.264653Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Integration of Knowledge Intensive Multi-Agent

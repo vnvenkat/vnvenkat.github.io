@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - R. Sekar
 date: '2003-12-01'
-publishDate: '2026-02-18T20:52:26.900350Z'
+publishDate: '2026-05-23T00:35:41.127874Z'
 publication_types:
 - paper-conference
 publication: '*19th Annual Computer Security Applications Conference (ACSAC 2003),

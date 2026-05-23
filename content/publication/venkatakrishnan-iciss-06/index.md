@@ -6,7 +6,7 @@ authors:
 - Daniel C. DuVarney
 - R. Sekar
 date: '2006-12-01'
-publishDate: '2026-02-18T20:52:26.869489Z'
+publishDate: '2026-05-23T00:35:41.096867Z'
 publication_types:
 - paper-conference
 publication: '*Information and Communications Security, 8th International Conference,

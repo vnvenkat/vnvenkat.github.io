@@ -5,7 +5,7 @@ authors:
 - Raj Swaminathan
 - V. N. Venkatakrishnan
 date: '2006-12-01'
-publishDate: '2026-02-18T20:52:26.861681Z'
+publishDate: '2026-05-23T00:35:41.088907Z'
 publication_types:
 - paper-conference
 publication: '*22nd Annual Computer Security Applications Conference (ACSAC 2006),

@@ -6,7 +6,7 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2025-08-01'
-publishDate: '2026-02-18T20:52:26.947454Z'
+publishDate: '2026-05-23T00:35:41.176944Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 34th USENIX Security Symposium*'
@@ -24,7 +24,7 @@ abstract: Comprehensively analyzing modern-day web applications to detect differ
   vulnerabilities associated with 19 PHP applications and discover 1097 similar exploitable
   paths leading to 10 new CVE entries.
 tags:
-- exploit generation; web application security;
+- exploit generation; web application security; vulnerability analysis
 links:
 - name: URL
   url: https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah

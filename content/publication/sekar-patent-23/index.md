@@ -11,10 +11,10 @@ authors:
 - V. N. Venkatakrishnan
 - Scott D. Stoller
 date: '2023-03-01'
-publishDate: '2026-02-18T20:52:27.017534Z'
+publishDate: '2026-05-23T00:35:41.248876Z'
 publication_types:
 - patent
-publication: '*U.S. Patent  *'
+publication: '*U.S. Patent*'
 abstract: A system associated with detecting a cyber-attack and reconstructing events
   associated with a cyber-attack campaign, is disclosed. The system performs various
   operations that include receiving an audit data stream associated with cyber events.

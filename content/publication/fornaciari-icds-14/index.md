@@ -5,7 +5,7 @@ authors:
 - C. Ranganathan
 - V. N. Venkatakrishnan
 date: '2014-03-01'
-publishDate: '2026-02-18T20:52:26.418248Z'
+publishDate: '2026-05-23T00:35:40.642264Z'
 publication_types:
 - paper-conference
 publication: '*The Eighth International Conference on Digital Society*'

@@ -6,7 +6,7 @@ authors:
 - Ling Ren
 - V. N. Venkatakrishnan
 date: '2020-05-01'
-publishDate: '2026-02-18T20:52:26.387516Z'
+publishDate: '2026-05-23T00:35:40.611398Z'
 publication_types:
 - report
 publication: '*Illinois Covid Task Force Reports*'

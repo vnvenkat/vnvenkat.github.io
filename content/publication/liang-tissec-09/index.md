@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - R. Sekar
 date: '2009-01-01'
-publishDate: '2026-02-18T20:52:26.791397Z'
+publishDate: '2026-05-23T00:35:41.016822Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Information Systems Security*'

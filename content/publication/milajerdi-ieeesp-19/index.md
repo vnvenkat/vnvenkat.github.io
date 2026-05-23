@@ -8,7 +8,7 @@ authors:
 - R. Sekar
 - V. N. Venkatakrishnan
 date: '2019-05-01'
-publishDate: '2026-02-18T20:52:26.495590Z'
+publishDate: '2026-05-23T00:35:40.721387Z'
 publication_types:
 - paper-conference
 publication: '*2019 IEEE Symposium on Security and Privacy, SP 2019, San Francisco,
@@ -31,7 +31,7 @@ abstract: In this paper, we present HOLMES, a system that implements a new appro
   attack campaign and can assist real-time cyber-response operations.
 tags:
 - alert correlation;intrusion detection;attack forensics; attack reconstruction; tactics
-  techniques and procedures; advanced persistent threats
+  techniques and procedures; advanced persistent threats;provenance graphs
 links:
 - name: URL
   url: https://doi.org/10.1109/SP.2019.00026

@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - R. Sekar
 date: '2005-02-01'
-publishDate: '2026-02-18T20:52:26.892130Z'
+publishDate: '2026-05-23T00:35:41.119699Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Network and Distributed System Security Symposium,

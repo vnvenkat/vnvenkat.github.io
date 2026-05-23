@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Stefano Zanero
 date: '2015-03-01'
-publishDate: '2026-02-18T20:52:26.565606Z'
+publishDate: '2026-05-23T00:35:40.793132Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 5th ACM Conference on Data and Application Security

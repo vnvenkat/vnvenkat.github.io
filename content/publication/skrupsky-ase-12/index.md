@@ -8,7 +8,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2012-12-01'
-publishDate: '2026-02-18T20:52:26.693824Z'
+publishDate: '2026-05-23T00:35:40.917819Z'
 publication_types:
 - paper-conference
 publication: '*2012 ASE International Conference on Cyber Security*'

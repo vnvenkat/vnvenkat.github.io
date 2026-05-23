@@ -6,7 +6,7 @@ authors:
 - V. Tsaoussidis
 - V.N. Venkatakrishnan
 date: '1999-09-01'
-publishDate: '2026-02-18T20:52:27.048182Z'
+publishDate: '2026-05-23T00:35:41.283237Z'
 publication_types:
 - paper-conference
 publication: "*Proceedings Third International Conference on Computational Intelligence

@@ -8,7 +8,7 @@ authors:
 - V. N. Venkatakrishnan
 - Vinod Yegneswaran
 date: '2015-02-01'
-publishDate: '2026-02-18T20:52:26.573122Z'
+publishDate: '2026-05-23T00:35:40.800907Z'
 publication_types:
 - paper-conference
 publication: '*22nd Annual Network and Distributed System Security Symposium*'
@@ -29,7 +29,7 @@ abstract: The emergence of exploit kits is one of the most important development
   that can compromise both the integrity of a fielded exploit kit, and even the identity
   of the kit operator
 tags:
-- exploit kits; malware; web security; attacks; cybercrime
+- exploit kits; malware; web security; attacks; cybercrime;vulnerability analysis
 links:
 - name: URL
   url: 

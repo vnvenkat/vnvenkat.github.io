@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Stefano Zanero
 date: '2015-05-01'
-publishDate: '2026-02-18T20:52:26.410385Z'
+publishDate: '2026-05-23T00:35:40.634489Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2015 IEEE Mobile Security Technologies (MoST)*'

@@ -6,7 +6,7 @@ authors:
 - Prithvi Bisht
 - V. N. Venkatakrishnan
 date: '2010-12-01'
-publishDate: '2026-02-18T20:52:26.776507Z'
+publishDate: '2026-05-23T00:35:41.001764Z'
 publication_types:
 - paper-conference
 publication: '*Information Systems Security - 6th International Conference, ICISS

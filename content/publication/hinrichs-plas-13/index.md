@@ -8,7 +8,7 @@ authors:
 - A. Prasad Sistla
 - Lenore D. Zuck
 date: '2013-06-01'
-publishDate: '2026-02-18T20:52:26.678625Z'
+publishDate: '2026-05-23T00:35:40.902232Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2013 ACM SIGPLAN Workshop on Programming Languages

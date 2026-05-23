@@ -8,7 +8,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2013-02-01'
-publishDate: '2026-02-18T20:52:26.662453Z'
+publishDate: '2026-05-23T00:35:40.886924Z'
 publication_types:
 - paper-conference
 publication: '*Third ACM Conference on Data and Application Security and Privacy*'
