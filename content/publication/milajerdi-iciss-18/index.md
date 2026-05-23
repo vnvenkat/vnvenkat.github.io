@@ -6,7 +6,7 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2018-12-01'
-publishDate: '2026-02-18T20:52:26.503518Z'
+publishDate: '2026-05-23T00:35:40.729997Z'
 publication_types:
 - paper-conference
 publication: '*14th International Conference on Information Systems Security*'

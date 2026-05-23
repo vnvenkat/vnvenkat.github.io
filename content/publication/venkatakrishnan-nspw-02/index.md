@@ -5,7 +5,7 @@ authors:
 - Ram Peri
 - R. Sekar
 date: '2002-09-01'
-publishDate: '2026-02-18T20:52:26.932119Z'
+publishDate: '2026-05-23T00:35:41.160954Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2002 Workshop on New Security Paradigms, Virginia

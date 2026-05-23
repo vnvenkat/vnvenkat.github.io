@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - A. Prasad Sistla
 date: '2008-12-01'
-publishDate: '2026-02-18T20:52:26.815383Z'
+publishDate: '2026-05-23T00:35:41.041023Z'
 publication_types:
 - paper-conference
 publication: '*Twenty-Fourth Annual Computer Security Applications Conference, ACSAC

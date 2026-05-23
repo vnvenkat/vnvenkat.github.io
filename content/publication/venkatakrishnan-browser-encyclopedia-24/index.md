@@ -3,7 +3,7 @@ title: Web Browser Security and Privacy
 authors:
 - V. N. Venkatakrishnan
 date: '2025-01-01'
-publishDate: '2026-02-18T20:52:26.964178Z'
+publishDate: '2026-05-23T00:35:41.193588Z'
 publication_types:
 - chapter
 publication: '*Encyclopedia of Cryptography, Security and Privacy*'

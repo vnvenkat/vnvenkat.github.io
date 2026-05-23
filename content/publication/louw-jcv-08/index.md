@@ -5,7 +5,7 @@ authors:
 - Jin Soon Lim
 - V. N. Venkatakrishnan
 date: '2008-08-01'
-publishDate: '2026-02-18T20:52:26.807469Z'
+publishDate: '2026-05-23T00:35:41.032958Z'
 publication_types:
 - article-journal
 publication: '*J. Comput. Virol.*'
@@ -27,7 +27,7 @@ abstract: "In this paper we examine security issues of functionality extension m
   also discuss techniques for runtime monitoring of extension behavior to provide
   a foundation for defending threats posed by installed extensions."
 tags:
-- browser security; web security; attacks; browser extension; code integrity
+- browser security; web security; attacks; browser extension; code integrity;
 links:
 - name: URL
   url: https://doi.org/10.1007/s11416-007-0078-5

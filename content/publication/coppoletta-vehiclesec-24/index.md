@@ -8,7 +8,7 @@ authors:
 - Omer Rana
 - V. N. Venkatakrishnan
 date: '2024-02-01'
-publishDate: '2026-02-18T20:52:26.394230Z'
+publishDate: '2026-05-23T00:35:40.618271Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of Vehicular Security Conference*'

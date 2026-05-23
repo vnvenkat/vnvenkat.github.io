@@ -5,7 +5,7 @@ authors:
 - Prithvi Bisht
 - V. N. Venkatakrishnan
 date: '2008-05-01'
-publishDate: '2026-02-18T20:52:26.441740Z'
+publishDate: '2026-05-23T00:35:40.666197Z'
 publication_types:
 - paper-conference
 publication: '*Workshop on Web 2.0 Security and Privacy*'

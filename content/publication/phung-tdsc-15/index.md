@@ -7,7 +7,7 @@ authors:
 - Kevin W. Hamlen
 - V. N. Venkatakrishnan
 date: '2015-07-01'
-publishDate: '2026-02-18T20:52:26.557696Z'
+publishDate: '2026-05-23T00:35:40.784932Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Dependable and Secure Computing*'

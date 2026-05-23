@@ -7,7 +7,7 @@ authors:
 - A. Prasad Sistla
 - V. N. Venkatakrishnan
 date: '2012-02-01'
-publishDate: '2026-02-18T20:52:26.686168Z'
+publishDate: '2026-05-23T00:35:40.909786Z'
 publication_types:
 - paper-conference
 publication: '*Second ACM Conference on Data and Application Security and Privacy,

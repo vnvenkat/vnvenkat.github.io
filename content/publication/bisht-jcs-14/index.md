@@ -7,7 +7,7 @@ authors:
 - Nazari Skrupsky
 - V. N. Venkatakrishnan
 date: '2014-05-01'
-publishDate: '2026-02-18T20:52:26.617057Z'
+publishDate: '2026-05-23T00:35:40.840991Z'
 publication_types:
 - article-journal
 publication: '*Journal of Computer Security*'

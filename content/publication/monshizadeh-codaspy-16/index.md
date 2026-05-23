@@ -5,7 +5,7 @@ authors:
 - Prasad Naldurg
 - V. N. Venkatakrishnan
 date: '2016-03-01'
-publishDate: '2026-02-18T20:52:26.542112Z'
+publishDate: '2026-05-23T00:35:40.768958Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Sixth ACM on Conference on Data and Application
@@ -26,7 +26,7 @@ abstract: Logic vulnerabilities are an important class of programming flaws in w
   critical parameter tampering and authorization vulnerabilities in large web applications.
 tags:
 - web application security; vulnerability analysis; logic vulnerabilities; Program
-  analysis; Code retrofitting; patching
+  analysis; Code retrofitting; patching;vulnerability analysis
 links:
 - name: URL
   url: https://doi.org/10.1145/2857705.2857727

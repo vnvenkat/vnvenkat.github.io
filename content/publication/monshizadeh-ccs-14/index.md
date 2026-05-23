@@ -5,7 +5,7 @@ authors:
 - Prasad Naldurg
 - V. N. Venkatakrishnan
 date: '2014-11-01'
-publishDate: '2026-02-18T20:52:26.625029Z'
+publishDate: '2026-05-23T00:35:40.849058Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications

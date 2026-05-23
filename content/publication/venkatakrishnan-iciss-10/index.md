@@ -9,7 +9,7 @@ authors:
 - Kalpana Gondi
 - Karthik Thotta Ganesh
 date: '2010-12-01'
-publishDate: '2026-02-18T20:52:26.768707Z'
+publishDate: '2026-05-23T00:35:40.993928Z'
 publication_types:
 - paper-conference
 publication: '*Information Systems Security - 6th International Conference, ICISS

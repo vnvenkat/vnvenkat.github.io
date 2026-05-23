@@ -6,7 +6,7 @@ authors:
 - Michelle Zhou
 - Hilary Branske
 date: '2008-03-01'
-publishDate: '2026-02-18T20:52:26.822908Z'
+publishDate: '2026-05-23T00:35:41.049049Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2008 ACM Symposium on Information, Computer and
@@ -25,7 +25,7 @@ abstract: Runtime monitoring systems play an important role in system security, 
   and leads to a very significant reduction in human efforts required for system verification.
 tags:
 - verification;model checking;runtime monitoring;stack inspection;Program analysis;
-  formal methods
+  formal methods; vuln
 links:
 - name: URL
   url: https://doi.org/10.1145/1368310.1368327

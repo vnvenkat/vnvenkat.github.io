@@ -6,7 +6,7 @@ authors:
 - C. Ranganathan
 - V. N. Venkatakrishnan
 date: '2014-10-01'
-publishDate: '2026-02-18T20:52:26.379612Z'
+publishDate: '2026-05-23T00:35:40.603543Z'
 publication_types:
 - article-journal
 publication: '*International Journal Health Information Systems Informatics*'

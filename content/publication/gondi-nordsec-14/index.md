@@ -5,7 +5,7 @@ authors:
 - A. Prasad Sistla
 - V. N. Venkatakrishnan
 date: '2014-10-01'
-publishDate: '2026-02-18T20:52:26.654874Z'
+publishDate: '2026-05-23T00:35:40.879208Z'
 publication_types:
 - paper-conference
 publication: '*19th Nordic Conference on Secure IT Systems*'
