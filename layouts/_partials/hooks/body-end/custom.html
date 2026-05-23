@@ -1,0 +1,49 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const pubs = Array.from(document.querySelectorAll(".pub-list-item.view-citation"));
+  let n = pubs.length;
+  let lastYear = "";
+
+  pubs.forEach(function (pub) {
+    const match = pub.innerText.match(/\((19|20)\d{2}\)/);
+    const year = match ? match[0].replace(/[()]/g, "") : "";
+
+    if (year && year !== lastYear) {
+      const h = document.createElement("h2");
+      h.textContent = year;
+      h.className = "pub-year-heading";
+      pub.parentNode.insertBefore(h, pub);
+      lastYear = year;
+    }
+
+    const span = document.createElement("span");
+    span.className = "pub-number";
+    span.textContent = "[" + n + "]";
+    pub.prepend(span);
+    n -= 1;
+  });
+});
+</script>
+
+<style>
+.pub-list-item.view-citation {
+  position: relative;
+  padding-left: 4rem;
+}
+
+.pub-number {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 3rem;
+  text-align: right;
+  font-weight: 600;
+}
+
+.pub-year-heading {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+
+}
+</style>

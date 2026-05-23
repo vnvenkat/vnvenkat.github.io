@@ -275,6 +275,15 @@ hugoblox:
       opacity: 1.0
     export_logs: true
 
+  appearance:
+
+     theme_day: minimal
+     theme_night: minimal
+
+marketing:
+  css:
+    custom: custom.scss
+
   # ────────────────────────────────────────────────────────────────────────────
   # PREMIUM
   # Premium features and creator program (affiliates)

@@ -1,0 +1,18 @@
+/* Number publications */
+
+.pub-list-item {
+  counter-increment: pub-counter;
+  position: relative;
+  padding-left: 3.5rem;
+}
+
+.pub-list-item::before {
+  content: "[" counter(pub-counter) "]";
+  position: absolute;
+  left: 0;
+  font-weight: 600;
+}
+
+main {
+  counter-reset: pub-counter;
+}

@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<div class="universal-wrapper">
+
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ $count := len $pages }}
+  {{ $n := $count }}
+
+  {{ $currentYear := "" }}
+
+  {{ range $pages }}
+
+    {{ $year := .Date.Format "2006" }}
+
+    {{ if ne $year $currentYear }}
+      {{ if ne $currentYear "" }}
+        </ol>
+      {{ end }}
+
+      <h2>{{ $year }}</h2>
+      <ol reversed start="{{ $n }}">
+      {{ $currentYear = $year }}
+    {{ end }}
+
+    <li class="pub-entry">
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+
+      {{ with .Params.publication }}
+        <div>{{ . | markdownify }}</div>
+      {{ end }}
+
+      {{ with .Params.authors }}
+        <div>
+          {{ delimit . ", " }}
+        </div>
+      {{ end }}
+    </li>
+
+    {{ $n = sub $n 1 }}
+
+  {{ end }}
+
+  </ol>
+
+</div>
+
+{{ end }}
