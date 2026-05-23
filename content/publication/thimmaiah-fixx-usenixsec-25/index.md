@@ -6,25 +6,14 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2025-08-01'
-publishDate: '2026-02-18T20:52:26.947454Z'
+publishDate: '2026-05-23T18:14:03.615390Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 34th USENIX Security Symposium*'
-abstract: Comprehensively analyzing modern-day web applications to detect different
-  vulnerabilities and related exploits is challenging and time-consuming. Security
-  researchers spend significant time discovering and creating vulnerabilities and
-  exploiting disclosures. However, such disclosures are often limited to single vulnerability
-  instances and do not contain information about other instances of the same vulnerability
-  in the application. In this paper, we propose FIXX, a tool that can automatically
-  find multiple similar exploits from taint-style vulnerabilities inside the same
-  PHP application. FIXX aims to help web application developers detect all possible
-  instances of a known exploit within the program's code. To do this, FIXX combines
-  novel notions of path and graph similarity over graph representations of code. We
-  evaluate FIXX on 32 CVE reports containing cross-site scripting and SQL injection
-  vulnerabilities associated with 19 PHP applications and discover 1097 similar exploitable
+abstract: Comprehensively analyzing modern-day web applications to detect different vulnerabilities and related exploits is challenging and time-consuming. Security researchers spend significant time discovering and creating vulnerabilities and exploiting disclosures. However, such disclosures are often limited to single vulnerability instances and do not contain information about other instances of the same vulnerability in the application. In this paper, we propose FIXX, a tool that can automatically find multiple similar exploits from taint-style vulnerabilities inside the same PHP application. FIXX aims to help web application developers detect all possible instances of a known exploit within the program's code. To do this, FIXX combines novel notions of path and graph similarity over graph representations of code. We evaluate FIXX on 32 CVE reports containing cross-site scripting and SQL injection vulnerabilities associated with 19 PHP applications and discover 1097 similar exploitable
   paths leading to 10 new CVE entries.
 tags:
-- exploit generation; web application security;
+- exploit generation; web application security; vulnerability analysis
 links:
 - name: URL
   url: https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah

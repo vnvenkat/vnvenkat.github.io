@@ -68,9 +68,20 @@ jobs:
         if: ${{ hashFiles('publications.bib') != '' }}
         run: |
           echo "🚀 Starting publication import..."
-          academic import publications.bib content/publication/ --compact --verbose --overwrite
+          echo "🚀 duplicating academic file into temporary academic bib file..."
+          cp publications.bib publications-academic.bib
+          perl -pi -e 's/^\s*\@chapter\s*\{/\@incollection\{/i' publications-academic.bib
+          perl -pi -e 's/^\s*\@patent\s*\{/\@misc\{/i' publications-academic.bib    
+          academic import publications-academic.bib content/publication/ --compact --verbose --overwrite
           echo "✅ Publication import completed successfully"
-          
+
+          echo "🚀 Adding note annotate entries from bib files"
+          python scripts/add_bib_notes.py          
+          echo "✅ Publication post-process completed successfully"
+
+          #echo "🚀 deleting temporary academic bib file..."
+          #rm publications-academic.bib
+
           # Verify that files were created
           if [ -d "content/publication" ] && [ "$(ls -A content/publication/)" ]; then
             echo "📚 Publications imported: $(ls content/publication/ | wc -l) items"

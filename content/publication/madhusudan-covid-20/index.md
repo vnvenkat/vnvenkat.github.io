@@ -6,12 +6,13 @@ authors:
 - Ling Ren
 - V. N. Venkatakrishnan
 date: '2020-05-01'
-publishDate: '2026-02-18T20:52:26.387516Z'
+publishDate: '2026-05-23T18:14:03.439366Z'
 publication_types:
 - report
 publication: '*Illinois Covid Task Force Reports*'
 tags:
 - contact tracing; privacy
-url_pdf: 
-  https://github.com/ConTraILProtocols/documents/blob/master/ContrailWhitePaper.pdf
+links:
+- type: pdf
+  url: https://github.com/ConTraILProtocols/documents/blob/master/ContrailWhitePaper.pdf
 ---
