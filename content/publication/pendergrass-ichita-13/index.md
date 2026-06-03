@@ -6,7 +6,7 @@ authors:
 - C. Ranganathan
 - V. N. Venkatakrishnan
 date: '2013-10-01'
-publishDate: '2026-05-23T18:14:03.509375Z'
+publishDate: '2026-06-03T17:00:35.914701Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Health Information Technology Advancement*'

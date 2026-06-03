@@ -4,7 +4,7 @@ authors:
 - Birhanu Eshete
 - V. N. Venkatakrishnan
 date: '2014-03-01'
-publishDate: '2026-05-23T18:14:03.517332Z'
+publishDate: '2026-06-03T17:00:35.935148Z'
 publication_types:
 - paper-conference
 publication: '*Fourth ACM Conference on Data and Application Security and Privacy, CODASPY''14, San Antonio, TX, USA - March 03 - 05, 2014*'
@@ -15,9 +15,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/2557547.2557575
-annote: 'Acceptance rate: 19/119, 15.9%'
-summary: 'Acceptance rate: 19/119, 15.9%'
 hugoblox:
   ids:
     doi: 10.1145/2557547.2557575
+annote: 'Acceptance rate: 19/119, 15.9%'
+summary: 'Acceptance rate: 19/119, 15.9%'
 ---

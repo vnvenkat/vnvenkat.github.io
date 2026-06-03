@@ -5,7 +5,7 @@ authors:
 - Raj Swaminathan
 - V. N. Venkatakrishnan
 date: '2006-12-01'
-publishDate: '2026-05-23T18:14:03.588338Z'
+publishDate: '2026-06-03T17:00:36.139767Z'
 publication_types:
 - paper-conference
 publication: '*22nd Annual Computer Security Applications Conference (ACSAC 2006), 11-15 December 2006, Miami Beach, Florida, USA*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/ACSAC.2006.22
-annote: 'Acceptance rate: 32 out of 135 submissions, 26.5%'
-summary: 'Acceptance rate: 32 out of 135 submissions, 26.5%'
 hugoblox:
   ids:
     doi: 10.1109/ACSAC.2006.22
+annote: 'Acceptance rate: 32 out of 135 submissions, 26.5%'
+summary: 'Acceptance rate: 32 out of 135 submissions, 26.5%'
 ---

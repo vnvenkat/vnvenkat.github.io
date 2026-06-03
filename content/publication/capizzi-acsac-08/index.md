@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - A. Prasad Sistla
 date: '2008-12-01'
-publishDate: '2026-05-23T18:14:03.574188Z'
+publishDate: '2026-06-03T17:00:36.098430Z'
 publication_types:
 - paper-conference
 publication: '*Twenty-Fourth Annual Computer Security Applications Conference, ACSAC 2008, Anaheim, California, USA, 8-12 December 2008*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/ACSAC.2008.50
-annote: 42 out of 185 submissions accepted, 22.7%
-summary: 42 out of 185 submissions accepted, 22.7%
 hugoblox:
   ids:
     doi: 10.1109/ACSAC.2008.50
+annote: 42 out of 185 submissions accepted, 22.7%
+summary: 42 out of 185 submissions accepted, 22.7%
 ---

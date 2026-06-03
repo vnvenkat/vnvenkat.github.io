@@ -6,7 +6,7 @@ authors:
 - Daniel C. DuVarney
 - R. Sekar
 date: '2006-12-01'
-publishDate: '2026-05-23T18:14:03.590899Z'
+publishDate: '2026-06-03T17:00:36.146862Z'
 publication_types:
 - paper-conference
 publication: '*Information and Communications Security, 8th International Conference, ICICS 2006, Raleigh, NC, USA, December 4-7, 2006, Proceedings*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1007/11935308_24
-annote: 'Acceptance rate: 40 out of 122 submissions, 32%'
-summary: 'Acceptance rate: 40 out of 122 submissions, 32%'
 hugoblox:
   ids:
     doi: 10.1007/11935308_24
+annote: 'Acceptance rate: 40 out of 122 submissions, 32%'
+summary: 'Acceptance rate: 40 out of 122 submissions, 32%'
 ---

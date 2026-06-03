@@ -3,7 +3,7 @@ title: Enforcement techniques for expressive security policies
 authors:
 - V. N. Venkatakrishnan
 date: '2004-11-01'
-publishDate: '2026-05-23T18:14:03.463811Z'
+publishDate: '2026-06-03T17:00:35.787185Z'
 publication_types:
 - thesis
 publication: '*Ph.D. Thesis*'

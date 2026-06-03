@@ -8,7 +8,7 @@ authors:
 - A. Prasad Sistla
 - Lenore D. Zuck
 date: '2013-06-01'
-publishDate: '2026-05-23T18:14:03.532163Z'
+publishDate: '2026-06-03T17:00:35.975540Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2013 ACM SIGPLAN Workshop on Programming Languages and Analysis for Security, PLAS*'

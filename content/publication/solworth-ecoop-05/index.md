@@ -4,7 +4,7 @@ authors:
 - Jon Solworth
 - V. N. Venkatakrishnan
 date: '2005-07-01'
-publishDate: '2026-05-23T18:14:03.461521Z'
+publishDate: '2026-06-03T17:00:35.780332Z'
 publication_types:
 - paper-conference
 publication: '*ECOOP Workshop on Programming Languages and Operating Systems*'

@@ -6,7 +6,7 @@ authors:
 - Michelle Zhou
 - Hilary Branske
 date: '2008-03-01'
-publishDate: '2026-05-23T18:14:03.576498Z'
+publishDate: '2026-06-03T17:00:36.105176Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2008 ACM Symposium on Information, Computer and Communications Security, ASIACCS 2008, Tokyo, Japan, March 18-20, 2008*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/1368310.1368327
-annote: 'Acceptance rate: 32 out of 181 regular submissions, 18%'
-summary: 'Acceptance rate: 32 out of 181 regular submissions, 18%'
 hugoblox:
   ids:
     doi: 10.1145/1368310.1368327
+annote: 'Acceptance rate: 32 out of 181 regular submissions, 18%'
+summary: 'Acceptance rate: 32 out of 181 regular submissions, 18%'
 ---

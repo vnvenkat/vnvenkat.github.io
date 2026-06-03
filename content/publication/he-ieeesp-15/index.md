@@ -9,7 +9,7 @@ authors:
 - Runqing Yang
 - Zhenrui Zhang
 date: '2015-05-01'
-publishDate: '2026-05-23T18:14:03.501482Z'
+publishDate: '2026-06-03T17:00:35.894236Z'
 publication_types:
 - paper-conference
 publication: '*2015 IEEE Symposium on Security and Privacy, SP 2015, San Jose, CA, USA, May 17-21, 2015*'
@@ -20,9 +20,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/SP.2015.38
-annote: 55 papers accepted out of 407, 13.5%
-summary: 55 papers accepted out of 407, 13.5%
 hugoblox:
   ids:
     doi: 10.1109/SP.2015.38
+annote: 55 papers accepted out of 407, 13.5%
+summary: 55 papers accepted out of 407, 13.5%
 ---

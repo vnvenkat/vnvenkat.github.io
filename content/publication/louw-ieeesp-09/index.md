@@ -4,7 +4,7 @@ authors:
 - Mike Ter Louw
 - V. N. Venkatakrishnan
 date: '2009-05-01'
-publishDate: '2026-05-23T18:14:03.569479Z'
+publishDate: '2026-06-03T17:00:36.084311Z'
 publication_types:
 - paper-conference
 publication: '*30th IEEE Symposium on Security and Privacy (SP 2009), 17-20 May 2009, Oakland, California, USA*'
@@ -15,10 +15,10 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/SP.2009.33
-note: 2009 ATT Best Applied Security Research paper at CSAW09!
-annote: 26 out of 254 papers, 10.2%
-summary: 2009 ATT Best Applied Security Research paper at CSAW09! 26 out of 254 papers, 10.2%
 hugoblox:
   ids:
     doi: 10.1109/SP.2009.33
+note: 2009 ATT Best Applied Security Research paper at CSAW09!
+annote: 26 out of 254 papers, 10.2%
+summary: 2009 ATT Best Applied Security Research paper at CSAW09! 26 out of 254 papers, 10.2%
 ---

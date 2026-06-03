@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Rashid Ansari
 date: '2014-03-01'
-publishDate: '2026-05-23T18:14:03.522490Z'
+publishDate: '2026-06-03T17:00:35.948594Z'
 publication_types:
 - paper-conference
 publication: '*18th International Conference on Financial Cryptography and Data Security*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-662-45472-5_1
-annote: 31 papers accepted out of 165 submissions, 18.8%
-summary: 31 papers accepted out of 165 submissions, 18.8%
 hugoblox:
   ids:
     doi: 10.1007/978-3-662-45472-5_1
+annote: 31 papers accepted out of 165 submissions, 18.8%
+summary: 31 papers accepted out of 165 submissions, 18.8%
 ---

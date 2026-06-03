@@ -7,7 +7,7 @@ authors:
 - Sandeep Bhatkar
 - Daniel C. DuVarney
 date: '2003-10-01'
-publishDate: '2026-05-23T18:14:03.605488Z'
+publishDate: '2026-06-03T17:00:36.189891Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 19th ACM Symposium on Operating Systems Principles 2003, SOSP 2003, Bolton Landing, NY, USA, October 19-22, 2003*'
@@ -18,9 +18,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/945445.945448
-annote: 'Acceptance rate: 17%'
-summary: 'Acceptance rate: 17%'
 hugoblox:
   ids:
     doi: 10.1145/945445.945448
+annote: 'Acceptance rate: 17%'
+summary: 'Acceptance rate: 17%'
 ---

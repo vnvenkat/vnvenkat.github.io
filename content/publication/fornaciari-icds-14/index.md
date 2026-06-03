@@ -5,7 +5,7 @@ authors:
 - C. Ranganathan
 - V. N. Venkatakrishnan
 date: '2014-03-01'
-publishDate: '2026-05-23T18:14:03.449362Z'
+publishDate: '2026-06-03T17:00:35.746554Z'
 publication_types:
 - paper-conference
 publication: '*The Eighth International Conference on Digital Society*'
@@ -13,9 +13,9 @@ abstract: 'As online product reviews become ubiquitous, more individuals increas
   to work, achievements, leisure and money. Sensitive disclosure is also found to be a function of the type of reviewer and of the anonymization strategies adopted.'
 tags:
 - Privacy; information flow
-annote: Acceptance rate 28%
-summary: Acceptance rate 28%
 links:
 - type: pdf
   url: https://personales.upv.es/thinkmind/dl/conferences/icds/icds_2014/icds_2014_1_10_10073.pdf
+annote: Acceptance rate 28%
+summary: Acceptance rate 28%
 ---

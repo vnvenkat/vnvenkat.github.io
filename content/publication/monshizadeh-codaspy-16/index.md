@@ -5,7 +5,7 @@ authors:
 - Prasad Naldurg
 - V. N. Venkatakrishnan
 date: '2016-03-01'
-publishDate: '2026-05-23T18:14:03.489003Z'
+publishDate: '2026-06-03T17:00:35.858826Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the Sixth ACM on Conference on Data and Application Security and Privacy, CODASPY 2016, New Orleans, LA, USA, March 9-11, 2016*'

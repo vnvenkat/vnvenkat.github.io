@@ -4,7 +4,7 @@ authors:
 - Birhanu Eshete
 - V. N. Venkatakrishnan
 date: '2017-06-01'
-publishDate: '2026-05-23T18:14:03.481436Z'
+publishDate: '2026-06-03T17:00:35.838036Z'
 publication_types:
 - paper-conference
 publication: '*47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks*'
@@ -15,9 +15,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/DSN.2017.54
-annote: 49 out of 220 submissions, Acceptance rate 22%
-summary: 49 out of 220 submissions, Acceptance rate 22%
 hugoblox:
   ids:
     doi: 10.1109/DSN.2017.54
+annote: 49 out of 220 submissions, Acceptance rate 22%
+summary: 49 out of 220 submissions, Acceptance rate 22%
 ---

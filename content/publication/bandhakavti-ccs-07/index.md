@@ -6,7 +6,7 @@ authors:
 - P. Madhusudan
 - V. N. Venkatakrishnan
 date: '2007-10-01'
-publishDate: '2026-05-23T18:14:03.583482Z'
+publishDate: '2026-06-03T17:00:36.125541Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2007 ACM Conference on Computer and Communications Security, CCS 2007, Alexandria, Virginia, USA, October 28-31, 2007ACM Conference on Computer and Communications Security, CCS 2007, Alexandria, Virginia, USA, October 28-31, 2007*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/1315245.1315249
-annote: 'Acceptance rate: 55 out of 303 Submissions, 18%'
-summary: 'Acceptance rate: 55 out of 303 Submissions, 18%'
 hugoblox:
   ids:
     doi: 10.1145/1315245.1315249
+annote: 'Acceptance rate: 55 out of 303 Submissions, 18%'
+summary: 'Acceptance rate: 55 out of 303 Submissions, 18%'
 ---

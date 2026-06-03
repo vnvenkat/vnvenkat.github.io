@@ -8,7 +8,7 @@ authors:
 - V. N. Venkatakrishnan
 - Vinod Yegneswaran
 date: '2015-02-01'
-publishDate: '2026-05-23T18:14:03.498964Z'
+publishDate: '2026-06-03T17:00:35.887148Z'
 publication_types:
 - paper-conference
 publication: '*22nd Annual Network and Distributed System Security Symposium*'

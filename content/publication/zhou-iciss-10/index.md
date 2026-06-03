@@ -5,7 +5,7 @@ authors:
 - Prithvi Bisht
 - V. N. Venkatakrishnan
 date: '2010-12-01'
-publishDate: '2026-05-23T18:14:03.562063Z'
+publishDate: '2026-06-03T17:00:36.063471Z'
 publication_types:
 - paper-conference
 publication: '*Information Systems Security - 6th International Conference, ICISS 2010, Gandhinagar, India, December 17-19, 2010. Proceedings*'
@@ -15,9 +15,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-17714-9_8
-annote: 14 papers out of 51 submissions, 27.4%
-summary: 14 papers out of 51 submissions, 27.4%
 hugoblox:
   ids:
     doi: 10.1007/978-3-642-17714-9_8
+annote: 14 papers out of 51 submissions, 27.4%
+summary: 14 papers out of 51 submissions, 27.4%
 ---

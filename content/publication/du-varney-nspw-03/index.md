@@ -5,7 +5,7 @@ authors:
 - V. N. Venkatakrishnan
 - Sandeep Bhatkar
 date: '2003-08-01'
-publishDate: '2026-05-23T18:14:03.603011Z'
+publishDate: '2026-06-03T17:00:36.181830Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the New Security Paradigms Workshop 2003, August 18-21, 2002, Ascona, Switzerland*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/986655.986661
-annote: 'Acceptance rate: 13 out of 43 submissions: 30%'
-summary: 'Acceptance rate: 13 out of 43 submissions: 30%'
 hugoblox:
   ids:
     doi: 10.1145/986655.986661
+annote: 'Acceptance rate: 13 out of 43 submissions: 30%'
+summary: 'Acceptance rate: 13 out of 43 submissions: 30%'
 ---
