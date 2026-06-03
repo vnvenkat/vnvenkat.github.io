@@ -6,7 +6,7 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2016-10-01'
-publishDate: '2026-05-23T18:14:03.486545Z'
+publishDate: '2026-06-03T17:00:35.852020Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/2976749.2978380
-annote: 'Acceptance Rate: 16%'
-summary: 'Acceptance Rate: 16%'
 hugoblox:
   ids:
     doi: 10.1145/2976749.2978380
+annote: 'Acceptance Rate: 16%'
+summary: 'Acceptance Rate: 16%'
 ---

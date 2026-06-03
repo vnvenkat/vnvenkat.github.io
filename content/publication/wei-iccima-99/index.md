@@ -5,7 +5,7 @@ authors:
 - V. Tsaoussidis
 - V.N. Venkatakrishnan
 date: '1999-09-01'
-publishDate: '2026-05-23T18:14:03.648281Z'
+publishDate: '2026-06-03T17:00:36.320086Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings Third International Conference on Computational Intelligence and Multimedia Applications. ICCIMA''99 (Cat. No.PR00300)*'

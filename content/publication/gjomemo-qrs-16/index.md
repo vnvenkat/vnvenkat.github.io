@@ -8,7 +8,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2016-08-01'
-publishDate: '2026-05-23T18:14:03.491382Z'
+publishDate: '2026-06-03T17:00:35.865880Z'
 publication_types:
 - paper-conference
 publication: '*2016 IEEE International Conference on Software Quality, Reliability and Security*'
@@ -19,10 +19,10 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/QRS.2016.44
-note: Best Paper Award!
-annote: Acceptance Rate 29%
-summary: Best Paper Award! Acceptance Rate 29%
 hugoblox:
   ids:
     doi: 10.1109/QRS.2016.44
+note: Best Paper Award!
+annote: Acceptance Rate 29%
+summary: Best Paper Award! Acceptance Rate 29%
 ---

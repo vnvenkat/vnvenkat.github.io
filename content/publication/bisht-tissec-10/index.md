@@ -5,7 +5,7 @@ authors:
 - Parthasarathy Madhusudan
 - V. N. Venkatakrishnan
 date: '2010-02-01'
-publishDate: '2026-05-23T18:14:03.550583Z'
+publishDate: '2026-06-03T17:00:36.028905Z'
 publication_types:
 - article-journal
 publication: '*ACM Transactions on Information Systems Security*'

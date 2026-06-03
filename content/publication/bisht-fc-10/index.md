@@ -5,7 +5,7 @@ authors:
 - A. Prasad Sistla
 - V. N. Venkatakrishnan
 date: '2010-01-01'
-publishDate: '2026-05-23T18:14:03.557565Z'
+publishDate: '2026-06-03T17:00:36.049590Z'
 publication_types:
 - paper-conference
 publication: '*Financial Cryptography and Data Security, 14th International Conference, FC 2010, Tenerife, Canary Islands, Spain, January 25-28, 2010, Revised Selected Papers*'
@@ -15,9 +15,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-642-14577-3_21
-annote: 19 papers accepted out of 130, 14.6%
-summary: 19 papers accepted out of 130, 14.6%
 hugoblox:
   ids:
     doi: 10.1007/978-3-642-14577-3_21
+annote: 19 papers accepted out of 130, 14.6%
+summary: 19 papers accepted out of 130, 14.6%
 ---

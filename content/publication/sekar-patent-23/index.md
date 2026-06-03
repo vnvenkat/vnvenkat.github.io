@@ -9,7 +9,7 @@ authors:
 - V. N. Venkatakrishnan
 - Scott D. Stoller
 date: '2023-03-01'
-publishDate: '2026-05-23T18:14:03.638101Z'
+publishDate: '2026-06-03T17:00:36.292855Z'
 publication_types:
 - manuscript
 publication: '*U.S. Patent*'

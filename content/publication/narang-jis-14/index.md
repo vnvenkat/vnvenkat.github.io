@@ -5,7 +5,7 @@ authors:
 - Chittaranjan Hota
 - V. N. Venkatakrishnan
 date: '2014-10-01'
-publishDate: '2026-05-23T18:14:03.451982Z'
+publishDate: '2026-06-03T17:00:35.753587Z'
 publication_types:
 - article-journal
 publication: '*EURASIP Journal of Information Security*'

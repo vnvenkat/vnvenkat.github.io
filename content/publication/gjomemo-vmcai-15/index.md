@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2015-01-01'
-publishDate: '2026-05-23T18:14:03.503858Z'
+publishDate: '2026-06-03T17:00:35.901384Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 16th International Conference on Verification, Model Checking, and Abstract Interpretation*'

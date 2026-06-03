@@ -7,7 +7,7 @@ authors:
 - A. Prasad Sistla
 - V. N. Venkatakrishnan
 date: '2012-02-01'
-publishDate: '2026-05-23T18:14:03.534613Z'
+publishDate: '2026-06-03T17:00:35.982197Z'
 publication_types:
 - paper-conference
 publication: '*Second ACM Conference on Data and Application Security and Privacy, CODASPY 2012, San Antonio, TX, USA, February 7-9, 2012*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/2133601.2133638
-annote: 21 out of 113 papers, 18.5%
-summary: 21 out of 113 papers, 18.5%
 hugoblox:
   ids:
     doi: 10.1145/2133601.2133638
+annote: 21 out of 113 papers, 18.5%
+summary: 21 out of 113 papers, 18.5%
 ---

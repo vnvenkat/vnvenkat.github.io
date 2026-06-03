@@ -6,7 +6,7 @@ authors:
 - Rigel Gjomemo
 - V. N. Venkatakrishnan
 date: '2019-11-01'
-publishDate: '2026-05-23T18:14:03.471356Z'
+publishDate: '2026-06-03T17:00:35.809195Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security*'

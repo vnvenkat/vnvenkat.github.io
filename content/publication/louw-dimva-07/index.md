@@ -5,7 +5,7 @@ authors:
 - Jin Soon Lim
 - V. N. Venkatakrishnan
 date: '2007-07-01'
-publishDate: '2026-05-23T18:14:03.585980Z'
+publishDate: '2026-06-03T17:00:36.132792Z'
 publication_types:
 - paper-conference
 publication: '*Detection of Intrusions and Malware, and Vulnerability Assessment, 4th International Conference, DIMVA 2007, Lucerne, Switzerland, July 12-13, 2007, Proceedings*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-540-73614-1_1
-annote: 'Acceptance rate: 14 out of 57 submissions, 24.5%'
-summary: 'Acceptance rate: 14 out of 57 submissions, 24.5%'
 hugoblox:
   ids:
     doi: 10.1007/978-3-540-73614-1_1
+annote: 'Acceptance rate: 14 out of 57 submissions, 24.5%'
+summary: 'Acceptance rate: 14 out of 57 submissions, 24.5%'
 ---

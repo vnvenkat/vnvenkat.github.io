@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2013-08-01'
-publishDate: '2026-05-23T18:14:03.454526Z'
+publishDate: '2026-06-03T17:00:35.760929Z'
 publication_types:
 - paper-conference
 publication: '*The Seventh International Conference on Emerging Security Information, Systems and Technologies*'

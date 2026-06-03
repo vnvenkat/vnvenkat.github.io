@@ -5,7 +5,7 @@ authors:
 - Chittaranjan Hota
 - V. N. Venkatakrishnan
 date: '2014-05-01'
-publishDate: '2026-05-23T18:14:03.506903Z'
+publishDate: '2026-06-03T17:00:35.908194Z'
 publication_types:
 - paper-conference
 publication: '*International Workshop on Cyber Crime*'

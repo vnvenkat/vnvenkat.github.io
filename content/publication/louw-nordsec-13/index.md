@@ -6,7 +6,7 @@ authors:
 - Rohini Krishnamurti
 - V. N. Venkatakrishnan
 date: '2013-10-01'
-publishDate: '2026-05-23T18:14:03.529864Z'
+publishDate: '2026-06-03T17:00:35.968846Z'
 publication_types:
 - paper-conference
 publication: '*18th Nordic Conference on Secure IT Systems*'

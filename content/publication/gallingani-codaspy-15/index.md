@@ -6,7 +6,7 @@ authors:
 - V. N. Venkatakrishnan
 - Stefano Zanero
 date: '2015-03-01'
-publishDate: '2026-05-23T18:14:03.496322Z'
+publishDate: '2026-06-03T17:00:35.880331Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 5th ACM Conference on Data and Application Security and Privacy, CODASPY 2015, San Antonio, TX, USA, March 2-4, 2015*'

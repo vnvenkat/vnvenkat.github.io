@@ -6,7 +6,7 @@ authors:
 - Nazari Skrupsky
 - V. N. Venkatakrishnan
 date: '2011-10-01'
-publishDate: '2026-05-23T18:14:03.543906Z'
+publishDate: '2026-06-03T17:00:36.009917Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 18th ACM Conference on Computer and Communications Security, CCS 2011, Chicago, Illinois, USA, October 17-21, 2011*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/2046707.2046774
-annote: 60 papers accepted out of 429 submissions, 14%
-summary: 60 papers accepted out of 429 submissions, 14%
 hugoblox:
   ids:
     doi: 10.1145/2046707.2046774
+annote: 60 papers accepted out of 429 submissions, 14%
+summary: 60 papers accepted out of 429 submissions, 14%
 ---

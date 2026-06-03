@@ -9,7 +9,7 @@ authors:
 - Abhik Roychoudhury
 - V. N. Venkatakrishnan
 date: '2000-06-01'
-publishDate: '2026-05-23T18:14:03.613039Z'
+publishDate: '2026-06-03T17:00:36.211936Z'
 publication_types:
 - paper-conference
 publication: '*Computer Aided Verification, 12th International Conference, CAV 2000, Chicago, IL, USA, July 15-19, 2000, Proceedings*'

@@ -7,7 +7,7 @@ authors:
 - V. N. Venkatakrishnan
 - Lenore D. Zuck
 date: '2013-02-01'
-publishDate: '2026-05-23T18:14:03.527463Z'
+publishDate: '2026-06-03T17:00:35.962085Z'
 publication_types:
 - paper-conference
 publication: '*Third ACM Conference on Data and Application Security and Privacy*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/2435349.2435365
-annote: 24 papers accepted out of 107 submissions, 22.4%
-summary: 24 papers accepted out of 107 submissions, 22.4%
 hugoblox:
   ids:
     doi: 10.1145/2435349.2435365
+annote: 24 papers accepted out of 107 submissions, 22.4%
+summary: 24 papers accepted out of 107 submissions, 22.4%
 ---

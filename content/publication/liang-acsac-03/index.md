@@ -5,7 +5,7 @@ authors:
 - V. N. Venkatakrishnan
 - R. Sekar
 date: '2003-12-01'
-publishDate: '2026-05-23T18:14:03.600536Z'
+publishDate: '2026-06-03T17:00:36.174501Z'
 publication_types:
 - paper-conference
 publication: '*19th Annual Computer Security Applications Conference (ACSAC 2003), 8-12 December 2003, Las Vegas, NV, USA*'
@@ -16,9 +16,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/CSAC.2003.1254323
-note: Best Paper Award!
-summary: Best Paper Award!
 hugoblox:
   ids:
     doi: 10.1109/CSAC.2003.1254323
+note: Best Paper Award!
+summary: Best Paper Award!
 ---

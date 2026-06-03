@@ -7,7 +7,7 @@ authors:
 - Radoslaw Bobrowicz
 - V. N. Venkatakrishnan
 date: '2010-10-01'
-publishDate: '2026-05-23T18:14:03.553067Z'
+publishDate: '2026-06-03T17:00:36.036153Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 17th ACM Conference on Computer and Communications Security, CCS 2010, Chicago, Illinois, USA, October 4-8, 2010*'
@@ -17,10 +17,10 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/1866307.1866375
-note: Among the 10 nationwide finalists for the 2010 ATT Award for Best Applied Security Research paper!
-annote: 55 papers accepted out of 320, 17.6%.
-summary: Among the 10 nationwide finalists for the 2010 ATT Award for Best Applied Security Research paper! 55 papers accepted out of 320, 17.6%.
 hugoblox:
   ids:
     doi: 10.1145/1866307.1866375
+note: Among the 10 nationwide finalists for the 2010 ATT Award for Best Applied Security Research paper!
+annote: 55 papers accepted out of 320, 17.6%.
+summary: Among the 10 nationwide finalists for the 2010 ATT Award for Best Applied Security Research paper! 55 papers accepted out of 320, 17.6%.
 ---

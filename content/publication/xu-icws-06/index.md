@@ -6,7 +6,7 @@ authors:
 - R. Sekar
 - I. V. Ramakrishnan
 date: '2006-09-01'
-publishDate: '2026-05-23T18:14:03.593411Z'
+publishDate: '2026-06-03T17:00:36.154045Z'
 publication_types:
 - paper-conference
 publication: '*2006 IEEE International Conference on Web Services (ICWS 2006), 18-22 September 2006, Chicago, Illinois, USA*'
@@ -17,9 +17,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1109/ICWS.2006.4
-annote: 'Acceptance rate: 17%'
-summary: 'Acceptance rate: 17%'
 hugoblox:
   ids:
     doi: 10.1109/ICWS.2006.4
+annote: 'Acceptance rate: 17%'
+summary: 'Acceptance rate: 17%'
 ---

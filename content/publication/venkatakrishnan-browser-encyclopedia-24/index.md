@@ -3,7 +3,7 @@ title: Web Browser Security and Privacy
 authors:
 - V. N. Venkatakrishnan
 date: '2025-01-01'
-publishDate: '2026-05-23T18:14:03.621167Z'
+publishDate: '2026-06-03T17:00:36.233519Z'
 publication_types:
 - chapter
 publication: '*Encyclopedia of Cryptography, Security and Privacy*'
@@ -15,5 +15,5 @@ links:
   url: https://link.springer.com/rwe/10.1007/978-1-4419-5906-5_665
 hugoblox:
   ids:
-    doi: 10.1007/978-1-4419-5906-5_665
+    doi: 10.1007/978-3-642-27739-9_665-2
 ---

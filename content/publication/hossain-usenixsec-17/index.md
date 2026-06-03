@@ -10,7 +10,7 @@ authors:
 - Scott D. Stoller
 - V. N. Venkatakrishnan
 date: '2017-08-01'
-publishDate: '2026-05-23T18:14:03.484000Z'
+publishDate: '2026-06-03T17:00:35.845173Z'
 publication_types:
 - paper-conference
 publication: '*26th USENIX Security Symposium, USENIX Security*'
